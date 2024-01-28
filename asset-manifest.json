@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/passgen/static/css/main.6d8579d4.css",
+    "main.js": "/passgen/static/js/main.d4cf2aa9.js",
+    "index.html": "/passgen/index.html",
+    "main.6d8579d4.css.map": "/passgen/static/css/main.6d8579d4.css.map",
+    "main.d4cf2aa9.js.map": "/passgen/static/js/main.d4cf2aa9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d8579d4.css",
+    "static/js/main.d4cf2aa9.js"
+  ]
+}
